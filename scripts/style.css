@@ -1,0 +1,37 @@
+.yy {
+    color: rgb(65, 94, 13);
+    font-size: 36px;
+}
+
+.yyy {
+    font-size: 34px;
+    color: crimson;
+}
+
+.yyyy {
+    font-size: 35px;
+}
+
+.ui {
+    font-size: 30px;
+    color: brown;
+}
+
+
+    .button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #b8471a; /* Зеленый цвет */
+        color: rgb(69, 16, 214);
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 30px;
+    }
+    .button:hover {
+        background-color: #45a049; /* Более темный зеленый при наведении */
+    }
+
+    body {
+        background-color: #104696;
+    }
